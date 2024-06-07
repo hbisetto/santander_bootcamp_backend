@@ -8,3 +8,5 @@
 
 ## Comando git pull
 `git pull`: puxa os arquivos do github e faz um merge com o repositório local.
+
+## Comando git fetch
