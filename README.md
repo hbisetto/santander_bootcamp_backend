@@ -6,5 +6,3 @@
 `git commit -m "texto do commit"`   
 `git push` ou `git push origin [main ou master]`
 
-## Salvando alterações no GIT
-* comando git push
