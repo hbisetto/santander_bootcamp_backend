@@ -22,3 +22,4 @@ Se estiver tudo ok,
 `git branch teste` [criação de uma branch chamada 'teste']   
 * Para acessar esta nova branch:
 `git checkout [nome da branch]`
+* `git merge [nome do branch para ser adicionado no branch atual]`. Se cair na tela do vim, teclar `:wq` + `ENTER`.
