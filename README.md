@@ -6,3 +6,4 @@
 `git commit -m "texto do commit"`   
 `git push` ou `git push origin [main ou master]`
 
+* comando git pull
