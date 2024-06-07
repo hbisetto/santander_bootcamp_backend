@@ -6,4 +6,5 @@
 `git commit -m "texto do commit"`   
 `git push` ou `git push origin [main ou master]`
 
-* comando git pull
+## Comando git pull
+`git pull`: puxa os arquivos do github e faz um merge com o repositório local.
