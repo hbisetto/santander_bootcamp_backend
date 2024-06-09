@@ -32,10 +32,10 @@ Se estiver tudo ok,
 `ipconfig`: detalhes sobre as placas de rede e suas conexões.
 `ipconfig / flushdns`: limpar o cash dns da máquina.   
 `ping [site]`: testar se há conexão entre o pc local e o destino.    
-`nslookup [site]`: retorna detalhes do site, domínio etc.
-`tracert [site]`: calcular por quais caminhos vai passar até chegar no servidor do site indicado.
-`route print`: tabelas com informações importantes a respeito das placas de rede, IPV4, IPV6.
-`netstat`: mapeia quais portas estão sendo utilizadas pelo computador.
+`nslookup [site]`: retorna detalhes do site, domínio etc.    
+`tracert [site]`: calcular por quais caminhos vai passar até chegar no servidor do site indicado.   
+`route print`: tabelas com informações importantes a respeito das placas de rede, IPV4, IPV6.   
+`netstat`: mapeia quais portas estão sendo utilizadas pelo computador.   
 
 
 
