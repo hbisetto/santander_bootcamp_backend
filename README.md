@@ -1,5 +1,7 @@
 # Bootcamp Santander Backend 2024
 
+# GIT
+
 ## Linkar projeto com repositório do github
 `git remote add origin https://[link]`  
 `git add [nome do arquivo ou '.']`  
@@ -23,3 +25,20 @@ Se estiver tudo ok,
 * Para acessar esta nova branch:
 `git checkout [nome da branch]`
 * `git merge [nome do branch para ser adicionado no branch atual]`. Se cair na tela do vim, teclar `:wq` + `ENTER`.
+
+# REDES E SISTEMAS 
+
+* Comandos de rede no Windows:
+`ipconfig`: detalhes sobre as placas de rede e suas conexões.
+`ipconfig / flushdns`: limpar o cash dns da máquina.   
+`ping [site]`: testar se há conexão entre o pc local e o destino.    
+`nslookup [site]`: retorna detalhes do site, domínio etc.
+`tracert [site]`: calcular por quais caminhos vai passar até chegar no servidor do site indicado.
+`route print`: tabelas com informações importantes a respeito das placas de rede, IPV4, IPV6.
+`netstat`: mapeia quais portas estão sendo utilizadas pelo computador.
+
+
+
+
+
+
